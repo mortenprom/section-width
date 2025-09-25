@@ -1,0 +1,95 @@
+{
+	"id": "d8717ed2-3c00-4fb0-b73a-baac22673b3a",
+	"createdAt": "2025-09-25T08:54:05.330Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/section-width.git",
+		"branch": "main"
+	},
+	"name": "prom-section-width",
+	"description": null,
+	"ver": "25.09.25.1204",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "a4816103-8b40-4837-84ef-eb6963c0da13",
+			"description": "Content Text Section Width",
+			"name": "prom-section-width"
+		}
+	],
+	"tile_layout": [],
+	"category": [
+		{
+			"id": "5a7f75ad-a374-4c46-b99a-21b11d7e08d4",
+			"description": null,
+			"name": "prom-screen-width"
+		},
+		{
+			"id": "47b64c5e-a7a3-44b7-b6ca-db8957fc5f6a",
+			"description": null,
+			"name": "prom-section-width"
+		}
+	],
+	"tilegroup_layout": [
+		{
+			"id": "98829e6f-e17c-4cec-89b4-7ea385717b61",
+			"NAME": "prom-section-width"
+		},
+		{
+			"id": "19111735-6437-4a13-8089-a6a8e9fdedee",
+			"NAME": "prom-screen-width"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "be13a714-427c-4139-aef7-22f1c1ee6808",
+			"name": "prom-section-width",
+			"description": null
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "78da0048-e22d-41a4-9b17-304093bb74b7",
+			"NAME": "prom-section-width",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agents": [],
+	"ai_models": [],
+	"ai_prompts": [],
+	"ai_tools": []
+}
